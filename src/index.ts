@@ -1,6 +1,8 @@
 import { Handler, IBody, ICtx } from "routex";
 import { setCurrentCtx } from "./execution";
 
+export * from "./hooks";
+
 type HooksHandler =
   | Handler
   | (() => Promise<void> | Promise<IBody> | void | IBody);
