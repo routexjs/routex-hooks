@@ -1,4 +1,4 @@
-# Routex Hooks [![npm](https://img.shields.io/npm/v/@routex/hooks.svg)](https://www.npmjs.com/package/@routex/hooks) [![Travis CI](https://img.shields.io/travis/com/routexjs/routex-hooks.svg)](https://travis-ci.com/routexjs/routex-hooks) [![Codecov](https://img.shields.io/codecov/c/github/routexjs/routex-hooks.svg)](https://codecov.io/gh/routexjs/routex-hooks) [![Greenkeeper badge](https://badges.greenkeeper.io/routexjs/routex-hooks.svg)](https://greenkeeper.io/)
+# Routex Hooks [![npm](https://img.shields.io/npm/v/@routex/hooks.svg)](https://www.npmjs.com/package/@routex/hooks) [![Travis CI](https://img.shields.io/travis/com/routexjs/routex-hooks.svg)](https://travis-ci.com/routexjs/routex-hooks) [![Codecov](https://img.shields.io/codecov/c/github/routexjs/routex-hooks.svg)](https://codecov.io/gh/routexjs/routex-hooks)
 
 Hooks for [Routex](https://www.npmjs.com/package/routex).
 
